@@ -31,4 +31,17 @@ I am curently a third year **Computer Science** major attending [UC San Diego](h
 3. Make lots of money
 4. Adopt more cats
 
-   *I really really like cats, heck look at this cool image of one: [cute_cat.jpg]*
+   > *I really really like cats, heck look at this cool image of one: [cute_cat.jpg](https://github.com/kayefalaminiano/cse-110-lab-1/blob/main/cute_cat.jpg)*
+
+---
+
+### Some coding languages that I want to master:
+
+- [x] Java
+- [x] JavaScript
+- [x] Python
+- [ ] HTML
+- [ ] CSS
+- [ ] C++
+- [ ] C
+
