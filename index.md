@@ -45,3 +45,6 @@ I am curently a third year **Computer Science** major attending [UC San Diego](h
 - [ ] C++
 - [ ] C
 
+---
+
+Anyways, that's a small introduction of me, I hope to gain lots of knowledge and experience this quarter!!
